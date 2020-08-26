@@ -123,7 +123,7 @@ Here's the full example in action.
 ```
 
 ## Class diagram
-![alt text](./etc/observer.png "Observer")
+![alt text](src/main/resources/explain.png "Observer")
 
 ## Applicability
 Use the Observer pattern in any of the following situations
